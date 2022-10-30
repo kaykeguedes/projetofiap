@@ -51,19 +51,19 @@ export function ExperienciaKayke() {
 					<Period>Fev de 2022 - atual</Period>
 				</Card>
 				<Card green={true}>
-					<Company>G4 Educação</Company>
-					<Job>Analista de OPS</Job>
-					<Period>Fev de 2022 - atual</Period>
+					<Company>SAIG</Company>
+					<Job>Fundador</Job>
+					<Period>Set de 2021 - atual</Period>
 				</Card>
 				<Card green={true}>
-					<Company>G4 Educação</Company>
-					<Job>Analista de OPS</Job>
-					<Period>Fev de 2022 - atual</Period>
+					<Company>Stone</Company>
+					<Job>Analista de Dados</Job>
+					<Period>Set de 2021 - Fev de 2022</Period>
 				</Card>
 				<Card green={true}>
-					<Company>G4 Educação</Company>
-					<Job>Analista de OPS</Job>
-					<Period>Fev de 2022 - atual</Period>
+					<Company>Volitione</Company>
+					<Job>Co-Fundador</Job>
+					<Period>Dez de 2019 - Ago de 2021</Period>
 				</Card>
 			</DivCards>
 			<DivLinks>
